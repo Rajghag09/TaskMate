@@ -24,7 +24,7 @@ Follow these steps to get the project up and running on your local machine:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/Shubhamghude808/ToDoWebApp.git
+    git clone https://github.com/Rajghag09/TaskMate.git
     ```
 
 2. Navigate to the project directory:
@@ -84,8 +84,8 @@ spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
 #### Usage of MySQL Database
 - Navigate to http://localhost:3306 in your browser.
 - Log in using the default credentials:
-- Username: todos-user
-- Password: dummytodos
+- Username: springstudent
+- Password: dummytodosspringstudent
 - You can now manage your todos: create, read, update, and delete.
 
 ## License
